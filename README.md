@@ -15,7 +15,7 @@ This project aims to recognize American Sign Language (ASL) signs using computer
 
 ## Project Structure
 
-- `dataset/`: Contains images or videos used for training the model.
-- `notebooks/`: Jupyter notebooks for data exploration and model training.
+- `dataset/`: Contains images used for training the model.
+- `notebooks/`: Jupyter notebooks for model training and real-time implementation.
 - `README.md`: Project documentation.
 
