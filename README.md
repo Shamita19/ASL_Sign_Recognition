@@ -9,9 +9,7 @@ This project aims to recognize American Sign Language (ASL) signs using computer
 
 - Real-time ASL sign recognition using a webcam.
 - Translation of ASL gestures into text or speech.
-- Support for a variety of ASL signs (e.g., alphabet).
-- User-friendly interface for easy interaction.
-- Ability to add and train custom signs.
+
 
 ## Project Structure
 
